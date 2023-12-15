@@ -1,0 +1,1 @@
+Objective: This project focuses on creating a predictive model using a Random Forest algorithm to assist in the process of buying old cars. The goal is to predict the fair market value of used cars based on various features, providing valuable insights to potential buyers and sellers.
